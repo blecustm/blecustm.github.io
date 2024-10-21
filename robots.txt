@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://blecustm.github.io/blecustm.txt.gz
+Sitemap: https://blecustm.github.io/app/blecustm.txt.gz
+Sitemap: https://blecustm.github.io/assets/blecustm.txt.gz
+Sitemap: https://blecustm.github.io/css/blecustm.txt.gz
+Sitemap: https://blecustm.github.io/includes/blecustm.txt.gz
+Sitemap: https://blecustm.github.io/item/blecustm.txt.gz
+Sitemap: https://blecustm.github.io/src/blecustm.txt.gz
